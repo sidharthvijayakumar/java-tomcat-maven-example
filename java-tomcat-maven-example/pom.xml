@@ -4,7 +4,8 @@
   <groupId>com.example</groupId>
   <artifactId>java-tomcat-maven-example</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT-1.0.${v}</version>
+
   <name>hello Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
